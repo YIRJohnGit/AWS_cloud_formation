@@ -12,5 +12,5 @@ Resources:
             BucketName: "yirsmbucketredshiftv01"
 ```
 
-_Sample View_
+__Sample View__
 ![image](https://user-images.githubusercontent.com/111234771/200511763-c8e99f89-9d69-4b5e-bb9f-c2ab0af5dc84.png)
